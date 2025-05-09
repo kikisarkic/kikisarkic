@@ -1,8 +1,8 @@
-using szstem:
+using system:
 namespace my first program 
 {class Program}
 {static void main(string[] args}
-{Console. Write line ("Hello World!"):
+{Console. Write line ("vijezba"):
 }
 }
 }
